@@ -259,16 +259,6 @@ blockquote span {
   background: transparent url("../images/left.jpg") no-repeat right top;
 }
 
-
-/**  Center Column ***/
-#image {
-  float: left;
-  width: 15%;  
-  height:700px;
-  vertical-align: top;
-  background: #FFEE00 url("../images/cubes2.jpg") no-repeat top center;
-}
-
 /** Right column  **/
 #sideBar {
   float: left;
@@ -312,41 +302,41 @@ blockquote span {
  Comment Styles
  ***************************************************/
 
-#comments p {
+#sideinfo p {
   padding: 0 5px;
   margin-bottom: 0;
   background: #000000 no-repeat top left;
 }
 
-#comments p span.author {
+#sideinfo p span.author {
   display: block;
   margin-top: 5px;
   text-align: right;
   font-weight: 700;
 }
 
-#comments img {
+#sideinfo img {
   margin-top: -1px;
 }
 
-#comments a {
+#sideinfo a {
   color: #FFEE00;
 }
 
-#comments a:visited {
+#sideinfo a:visited {
   color: #AAA;
 }
 
-#comments a:hover {
+#sideinfo a:hover {
   color: #FFF;
 }
 
 /***************************************************
- Footer
+ FooterSR
  ***************************************************/
 
 /** No Side Pad here, unless lower percentage to account ***/ 
-#footer {
+#footerSR {
   clear: both;
   float: left;
   width: 97.5%;
@@ -354,16 +344,16 @@ blockquote span {
   padding-left:2%;
   color: #888;}
 
-#footer p {
+#footerSR p {
   padding-top: 0 !important;
   padding-top: 10px;
 }
 
-#footer a {
+#footerSR a {
   color: #888;
 }
 
-#footer a:hover {
+#footerSR a:hover {
   color: #EEE;
 }
 
