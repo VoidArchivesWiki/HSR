@@ -365,7 +365,7 @@ a.fullAheadSR {
   background: url(../images/logo_honkai.gif) no-repeat 0 0;
 }
 
-a:hover.fullAhead  {
+a:hover.fullAheadSR  {
   background-position: -128px 0;
 }
 
