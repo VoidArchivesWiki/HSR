@@ -1,4 +1,4 @@
-fetch("/Void-Archives-StarRail-Wiki/lightcones/header.html")
+fetch("/HSR/lightcones/header.html")
   .then(response => {
     return response.text()
   })

@@ -1,4 +1,4 @@
-fetch("/Void-Archives-StarRail-Wiki/relics/header.html")
+fetch("/HSR/relics/header.html")
   .then(response => {
     return response.text()
   })

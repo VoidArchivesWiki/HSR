@@ -1,4 +1,4 @@
-fetch("/Void-Archives-StarRail-Wiki/sideinfo.html")
+fetch("/HSR/sideinfo.html")
   .then(response => {
     return response.text()
   })

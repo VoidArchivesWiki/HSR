@@ -1,4 +1,4 @@
-fetch("/Void-Archives-StarRail-Wiki/music/header.html")
+fetch("/HSR/music/header.html")
   .then(response => {
     return response.text()
   })
