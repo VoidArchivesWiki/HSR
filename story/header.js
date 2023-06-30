@@ -1,4 +1,4 @@
-HSR("/HSR/story/header.html")
+fetch("/HSR/story/header.html")
   .then(response => {
     return response.text()
   })
